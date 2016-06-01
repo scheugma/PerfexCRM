@@ -168,15 +168,15 @@ $lang['email_template_ticket_fields_heading']   = 'Tickets';
 $lang['email_template_invoices_fields_heading'] = 'Rechnungen';
 $lang['email_template_clients_fields_heading']  = 'Kunden';
 
-$lang['template_name']                                      = 'Namensvorlage';
-$lang['template_subject']                                   = 'Subjekt';
+$lang['template_name']                                      = 'Name der Vorlage';
+$lang['template_subject']                                   = 'Betreff';
 $lang['template_fromname']                                  = 'Vom Namen';
 $lang['template_fromemail']                                 = 'Von der Email';
 $lang['send_as_plain_text']                                 = 'Sende als Klartext';
-$lang['email_template_disabed']                             = 'beschädigt';
+$lang['email_template_disabed']                             = 'Deaktiviert';
 $lang['email_template_email_message']                       = 'E-Mail Nachricht';
-$lang['email_template_merge_fields']                        = 'verbinde die Bereiche';
-$lang['available_merge_fields']                             = 'Bereiche verbinden verfügbar';
+$lang['email_template_merge_fields']                        = 'Verfpgbare Felder anzeigen';
+$lang['available_merge_fields']                             = 'Verfügbare Felder anzeigen';
 # Home
 $lang['dashboard_string']                                   = 'Pinnwand';
 $lang['home_latest_todos']                                  = 'Letzte to Dos';
