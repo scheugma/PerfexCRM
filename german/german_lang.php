@@ -2845,17 +2845,17 @@ $lang['view_pdf'] = 'Zeige PDF';
 $lang['expense_repeat_every'] = 'Wiederhole alle';
 
 # Version 1.1.2
-$lang['leads_switch_to_kanban'] = 'Switch to kan ban';
+$lang['leads_switch_to_kanban'] = 'Wechsel zu kan ban';
 $lang['survey_no_questions'] = 'This survey does not have questions added yet.';
-$lang['survey_submit'] = 'Submit';
-$lang['contract_content'] = 'Contract';
-$lang['contract_save'] = 'Save Contract';
-$lang['contract_send_to_email'] = 'Send to email';
-$lang['contract_send_to_client_modal_heading'] = 'Send contract to email';
-$lang['contract_send_to'] = 'Send to';
-$lang['contract_send_to_client_attach_pdf'] = 'Attach PDF';
-$lang['contract_send_to_client_preview_template'] = 'Preview Email Template';
-$lang['include_attachments_to_email'] = 'Include attachments to email';
-$lang['contract_sent_to_client_success'] = 'The contract is successfully sent to the customer';
-$lang['contract_sent_to_client_fail'] = 'Failed to send contract';
+$lang['survey_submit'] = 'Absenden';
+$lang['contract_content'] = 'Vertrag';
+$lang['contract_save'] = 'Speichere Vertrag';
+$lang['contract_send_to_email'] = 'Sende per E-Mail';
+$lang['contract_send_to_client_modal_heading'] = 'Sende Vertrag oer E-Mail';
+$lang['contract_send_to'] = 'Sende zu';
+$lang['contract_send_to_client_attach_pdf'] = 'PDF anfügen';
+$lang['contract_send_to_client_preview_template'] = 'Zeige E-Mail Template';
+$lang['include_attachments_to_email'] = 'Inklusive Anlage in der E-Mail';
+$lang['contract_sent_to_client_success'] = 'Der Vertrag wurde erfolgreich an den Kunden gesendet.';
+$lang['contract_sent_to_client_fail'] = 'Fehler beim versendn des Vertrages.';
 ?>
