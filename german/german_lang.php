@@ -1232,7 +1232,7 @@ $lang['is_not_active_export']         = 'Nein';
 $lang['is_active_export']             = 'Ja';
 
 # Invoice
-$lang['invoice_add_edit_advanced_options']               = 'Advanced Options';
+$lang['invoice_add_edit_advanced_options']               = 'Weitere Optionen';
 $lang['invoice_add_edit_allowed_payment_modes']          = 'Erlaubte Zahlungsarten';
 $lang['invoice_add_edit_recuring_invoices_from_invoice'] = 'Wiederkehrend Rechnungen aus dieser Rechnung';
 $lang['invoice_add_edit_no_payment_modes_found']         = 'Keine Zahlungsmodalitäten gefunden';
@@ -1780,11 +1780,11 @@ $lang['show_shipping_on_estimate']         = 'Show shipping details in estimate'
 $lang['is_invoiced_estimate_delete_error'] = 'This estimate is invoiced. You cant delete the estimate';
 
 # Customers & Invoices / Estimates
-$lang['ship_to']                  = 'Ship to';
-$lang['customer_profile_details'] = 'Customer Details';
-$lang['billing_shipping']         = 'Billing & Shipping';
-$lang['billing_address']          = 'Billing Address';
-$lang['shipping_address']         = 'Shipping Address';
+$lang['ship_to']                  = 'Versand an';
+$lang['customer_profile_details'] = 'Kunden Details';
+$lang['billing_shipping']         = 'Rechnung & Versand';
+$lang['billing_address']          = 'Rechnungsadresse';
+$lang['shipping_address']         = 'Versandadresse';
 
 $lang['billing_street']  = 'Strasse';
 $lang['billing_city']    = 'Stadt';
