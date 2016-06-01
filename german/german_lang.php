@@ -2846,7 +2846,7 @@ $lang['expense_repeat_every'] = 'Wiederhole alle';
 
 # Version 1.1.2
 $lang['leads_switch_to_kanban'] = 'Wechsel zu kan ban';
-$lang['survey_no_questions'] = 'This survey does not have questions added yet.';
+$lang['survey_no_questions'] = 'Diese';
 $lang['survey_submit'] = 'Absenden';
 $lang['contract_content'] = 'Vertrag';
 $lang['contract_save'] = 'Speichere Vertrag';
@@ -2857,5 +2857,5 @@ $lang['contract_send_to_client_attach_pdf'] = 'PDF anfügen';
 $lang['contract_send_to_client_preview_template'] = 'Zeige E-Mail Template';
 $lang['include_attachments_to_email'] = 'Inklusive Anlage in der E-Mail';
 $lang['contract_sent_to_client_success'] = 'Der Vertrag wurde erfolgreich an den Kunden gesendet.';
-$lang['contract_sent_to_client_fail'] = 'Fehler beim versendn des Vertrages.';
+$lang['contract_sent_to_client_fail'] = 'Fehler beim versenden des Vertrages.';
 ?>
